@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.Python
+venv/
+.venv/
+
+# Ignore node_modules across the repository
+**/node_modules/
+
+# Ignore large generated and dataset directories
+data_raw/
+data_processed/
+models/
+frontend_ui/node_modules/
+frontend_ui/dist/

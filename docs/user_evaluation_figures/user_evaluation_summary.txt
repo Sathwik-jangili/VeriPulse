@@ -1,0 +1,77 @@
+User evaluation summary (N = 11)
+============================================
+
+Percentages (valid % of respondents)
+
+
+q4_pred_understand:
+  Yes: 11 (100.0%)
+
+q5_explain_clear:
+  Very clear: 6 (54.5%)
+  Somewhat clear: 4 (36.4%)
+  Neutral: 1 (9.1%)
+
+q6_help_why:
+  Yes: 9 (81.8%)
+  No: 1 (9.1%)
+  Not sure: 1 (9.1%)
+
+q7_confidence_up:
+  Yes: 6 (54.5%)
+  Not sure: 4 (36.4%)
+  No: 1 (9.1%)
+
+q8_trust:
+  Strongly trust: 6 (54.5%)
+  Neutral: 2 (18.2%)
+  Somewhat trust: 2 (18.2%)
+  Somewhat distrust: 1 (9.1%)
+
+q9_would_use:
+  Yes: 9 (81.8%)
+  No: 1 (9.1%)
+  Maybe: 1 (9.1%)
+
+q10_ai_reduce_misinfo:
+  Yes: 7 (63.6%)
+  Not sure: 3 (27.3%)
+  No: 1 (9.1%)
+
+q11_help_mislead:
+  Yes: 8 (72.7%)
+  Not sure: 2 (18.2%)
+  No: 1 (9.1%)
+
+q12_explain_important:
+  Yes: 7 (63.6%)
+  No: 2 (18.2%)
+  Not sure: 2 (18.2%)
+
+q13_prefer_explain:
+  Yes: 9 (81.8%)
+  No: 2 (18.2%)
+
+q14_confusing:
+  No: 7 (63.6%)
+  Yes: 4 (36.4%)
+
+q17_recommend:
+  Probably yes: 4 (36.4%)
+  Not sure: 3 (27.3%)
+  Definitely yes: 3 (27.3%)
+  Probably no: 1 (9.1%)
+
+
+Q16 — Mean (SD) per dimension (1–5, higher = more positive end)
+  Supportive: M = 3.82, SD = 1.33
+  Easy: M = 3.55, SD = 0.93
+  Efficient: M = 3.64, SD = 0.92
+  Clear: M = 3.55, SD = 1.29
+  Exciting: M = 3.64, SD = 1.21
+  Interesting: M = 3.73, SD = 1.35
+  Inventive: M = 3.45, SD = 1.37
+  Leading-edge: M = 3.09, SD = 1.30
+
+Cronbach's α (Q16, 8 items): 0.681
+Grand mean Q16 (all items): 3.557

@@ -1,0 +1,12 @@
+id,age,social_freq,platform,q4_pred_understand,q5_explain_clear,q6_help_why,q7_confidence_up,q8_trust,q9_would_use,q10_ai_reduce_misinfo,q11_help_mislead,q12_explain_important,q13_prefer_explain,q14_confusing,q15_improvements,q16_obstructive_supportive,q16_complicated_easy,q16_inefficient_efficient,q16_confusing_clear,q16_boring_exciting,q16_notint_interesting,q16_conventional_inventive,q16_usual_leadingedge,q17_recommend
+1,18-24,Multiple times a day,Instagram,Yes,Very clear,Yes,Yes,Strongly trust,Yes,Yes,Yes,Yes,Yes,Yes,,1,3,5,3,1,5,2,1,Probably yes
+2,18-24,Multiple times a day,X (Twitter),Yes,Somewhat clear,No,No,Neutral,No,No,No,No,Yes,No,,3,3,3,3,3,3,3,3,Probably yes
+3,25-34,Multiple times a day,Instagram,Yes,Very clear,Yes,Yes,Neutral,Yes,Yes,Not sure,Yes,Yes,Yes,More situations based explanations,5,3,2,1,3,1,2,3,Probably yes
+4,18-24,Multiple times a day,Reddit,Yes,Somewhat clear,Not sure,Not sure,Somewhat trust,Maybe,Not sure,Yes,No,No,No,,4,3,4,5,3,4,5,5,Not sure
+5,18-24,Once a day,X (Twitter),Yes,Very clear,Yes,Not sure,Somewhat distrust,Yes,Yes,Yes,Yes,Yes,Yes,,5,4,3,4,5,2,5,3,Definitely yes
+6,18-24,Multiple times a day,Facebook,Yes,Somewhat clear,Yes,Not sure,Strongly trust,Yes,Not sure,Yes,Yes,Yes,No,,4,4,4,4,3,5,5,2,Not sure
+7,18-24,A few times per week,Instagram,Yes,Somewhat clear,Yes,Yes,Somewhat trust,Yes,Not sure,Yes,Yes,Yes,Yes,,4,3,3,3,5,3,5,4,Not sure
+8,18-24,Multiple times a day,Reddit,Yes,Very clear,Yes,Yes,Strongly trust,Yes,Yes,Yes,Not sure,Yes,No,,5,4,4,2,4,4,2,2,Definitely yes
+9,18-24,Rarely,Reddit,Yes,Neutral,Yes,Not sure,Strongly trust,Yes,Yes,Yes,Not sure,Yes,No,,2,2,3,4,4,4,2,4,Probably no
+10,18-24,Once a day,Reddit,Yes,Very clear,Yes,Yes,Strongly trust,Yes,Yes,Not sure,Yes,No,No,,4,5,4,5,4,5,4,5,Probably yes
+11,18-24,Multiple times a day,X (Twitter),Yes,Very clear,Yes,Yes,Strongly trust,Yes,Yes,Yes,Yes,Yes,No,,5,5,5,5,5,5,3,2,Definitely yes
